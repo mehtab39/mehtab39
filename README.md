@@ -8,7 +8,8 @@
 - Platforms: Windows, Linux, Unix
 - When am not coding you can find me watching movies, listening to music, or reading non-fiction books. My favorite author is Yuval Noah Harari.
 
-- Statistics: 
+- Statistics:
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mehtab39)
 
 
