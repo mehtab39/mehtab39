@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
 
-- 📫 I can be reached at mehtabgill@aol.com and on Twitter @mehtabgill39
+- 📫 I can be reached at mehtabgill@aol.com and on Twitter ![@mehtabgill39](https://twitter.com/mehtabgill39)
 
 - 🛠️ Skill Set: Algorithms, Data Structures, Object-Oriented Programming, Rest API, Databases, Cloud computing
 
