@@ -2,6 +2,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mehtab39)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mehtab39&repo=projectfashionnova)
+
 <!--
 **mehtab39/mehtab39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
