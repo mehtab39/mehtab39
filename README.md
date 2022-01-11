@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehtab39&theme=dark)](https://git.io/streak-stats) -->
-
 <h1 align="center">Hi 👋, I'm Mehtab</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
