@@ -34,7 +34,7 @@
 
 - 📄 Know about my experiences [https://mehtab-portfolio.herokuapp.com/mehtab_resume.pdf](https://mehtab-portfolio.herokuapp.com/mehtab_resume.pdf)
 
-- ⚡ Fun fact **When am not coding you can find me watching movies, listening to music, or reading non-fiction books.**
+- ⚡ **When am not coding you can find me watching movies, listening to music, or reading non-fiction books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
