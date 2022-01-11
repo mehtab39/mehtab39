@@ -1,22 +1,3 @@
-<!-- ### Hi there 👋
-
-
-- 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
- 
-- 🛠️ Skill Set: Algorithms, Data Structures, Object-Oriented Programming, Rest API, Databases, Cloud computing
-
-- ⌨️ Programming: JAVA, JAVASCRIPT, Python, HTML, No-SQL, SQL.
-
-- 🖥️ Platforms: Windows, Linux, Unix
-
-- 🎧 When am not coding you can find me watching movies, listening to music, or reading non-fiction books. My favorite author is Yuval Noah Harari.
-
-- 📫 I can be reached at mehtabgill@aol.com and on Twitter [@mehtabgill39](https://twitter.com/mehtabgill39)
-
-- 😎 Have a look at my [Portfolio](https://mehtab-portfolio.herokuapp.com)
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehtab39&theme=dark)](https://git.io/streak-stats) -->
 
 <h1 align="center">Hi 👋, I'm Mehtab</h1>
@@ -49,5 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtab39&show_icons=true&locale=en&layout=compact" alt="mehtab39" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehtab39&show_icons=true&locale=en" alt="mehtab39" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtab39&label=Profile%20views&color=0e75b6&style=flat" alt="mehtab39" /> </p>
+
 
