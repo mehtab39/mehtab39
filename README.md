@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://mehtab-portfolio.herokuapp.com/](https://mehtab-portfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [mehtab-portfolio.com/](https://mehtab-portfolio.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@mehtab39](https://medium.com/@mehtab39)
+- 📝 I regularly write articles on [@mehtab39](https://medium.com/@mehtab39)
 
 - 📫 How to reach me **mehtabgill@aol.com**
 
-- 📄 Know about my experiences [https://mehtab-portfolio.herokuapp.com/mehtab_resume.pdf](https://mehtab-portfolio.herokuapp.com/mehtab_resume.pdf)
+- 📄 Know about my experiences [mehtab_resume.pdf](https://mehtab-portfolio.herokuapp.com/mehtab_resume.pdf)
 
 - ⚡ **When am not coding you can find me watching movies, listening to music, or reading non-fiction books.**
 
