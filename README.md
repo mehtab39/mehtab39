@@ -86,5 +86,5 @@
     </a>
    </p>
 
-[![Mehtab's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehtab39&theme=react-dark)](https://github.com/mehtab39/github-readme-activity-graph)
+<!-- [![Mehtab's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehtab39&theme=react-dark)](https://github.com/mehtab39/github-readme-activity-graph) -->
 
