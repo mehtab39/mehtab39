@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mehtabgill@aol.com**
 
-- 📄 Know about my experiences [mehtab_resume.pdf](https://mehtab-portfolio.herokuapp.com/mehtab_resume.pdf)
+- 📄 Know about my experiences [mehtab_resume.pdf](https://portfolio-mehtab39.vercel.app/mehtab_resume.pdf)
 
 - ⚡ **When am not coding you can find me watching movies, listening to music, or reading non-fiction books.**
 
