@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [@mehtab39](https://medium.com/@mehtab39)
 
-- 📫 How to reach me **mehtabgill@aol.com**
+- 📫 How to reach me **mehtabgill122@gmail.com**
 
 - 📄 Know about my experiences [mehtab_resume.pdf](https://portfolio-mehtab39.vercel.app/mehtab_resume.pdf)
 
