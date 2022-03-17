@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [mehtab-portfolio.com/](https://portfolio-mehtab39.vercel.app/)
+- 👨‍💻 All of my projects are available at [mehtab-portfolio.com/](https://mehtab-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [@mehtab39](https://medium.com/@mehtab39)
 
