@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehtabgill39" target="_blank"><img src="https://img.shields.io/twitter/follow/mehtabgill39?logo=twitter&style=for-the-badge" alt="mehtabgill39" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as a ***SDE*** 
 
 - 👨‍💻 All of my projects are available at [mehtab-portfolio.com/](https://mehtab-portfolio.vercel.app/)
 
