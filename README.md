@@ -5,15 +5,7 @@
 
 - 🌱 I’m currently working as a ***SDE 2*** 
 
-- 👨‍💻 All of my projects are available at [mehtab-portfolio.com/](https://mehtab-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [@mehtab39](https://medium.com/@mehtab39)
-
 - 📫 How to reach me **mehtabgill122@gmail.com**
-
-- 📄 Know about my experiences [mehtab_resume.pdf](https://portfolio-mehtab39.vercel.app/mehtab_resume.pdf)
-
-- ⚡ **When am not coding you can find me watching movies, listening to music, or reading non-fiction books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
